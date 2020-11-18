@@ -8,4 +8,4 @@ This application is a copyright management system built on the Ethereum blockcha
 
 ### Demo App
 
-Click [here](frontend/index.html) to launch the CryptoRight application.
+Click [here](file:///C:/Users/andrew/GWU%20FINTECH/DAppTest/Frontend/index.html) to launch the CryptoRight application.
